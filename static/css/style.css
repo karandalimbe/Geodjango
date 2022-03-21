@@ -1,0 +1,83 @@
+.abc{
+font-family: 'Roboto', sans-serif;
+font-size:2rem;
+}
+.abcde{
+font-family: 'Roboto', sans-serif;
+font-size:1.5rem;
+}
+.abcd{
+font-family: 'Roboto', sans-serif;
+font-size:1.1rem;
+}
+.carousel-item{
+    height : 75vh;
+
+}
+
+
+
+.bgcolornavbar{
+
+background-color:#ee4b08;
+}
+
+
+
+.hoverr{
+  transition: all .4s ease-in-out;
+  object-fit: contain;
+}
+.hoverr:hover{
+  transform : scale(1.1);
+}
+
+.hhhover:hover{
+  color: red;
+  transform: scale(0.9);
+}
+
+.imgsize{
+width:100%;
+height:75%;
+}
+input[type=text] {
+  border: 2px solid red;
+  border-radius: 4px;
+}
+input[type=text]:focus {
+  background-color: lightblue;
+}
+
+.buttonaa {
+  background-color:grey;
+}
+
+.buttona:hover {
+  background-color: #45a049;
+
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+.btn-secondary{
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+
+.btn-secondary:hover{
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+}
+
+
+.center{
+text-align:center;
+justify-content: center;
+align-item:center;
+}
+
